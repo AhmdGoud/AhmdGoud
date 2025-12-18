@@ -1,7 +1,5 @@
-## Hi, it's me 
-<h1>er</h1>
-# Ahmed Abdel-Rahman
-### Front-end Developer
+ <h1>Hi, &#128075 It's me</h1><br>Ahmed Abdel-Rahman
+## Front-end Developer
 # 💫 About Me:
 I'm currently learning React js.<br>I'm currently working on Advanced-Calculator project.<br>I'm looking forward to collaborating on open-source project.
 
