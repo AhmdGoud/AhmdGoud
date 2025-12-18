@@ -1,4 +1,6 @@
-
+## Hi, it's me 
+# Ahmed Abdel-Rahman
+### Front-end Developer
 # 💫 About Me:
 I'm currently learning React js.<br>I'm currently working on Advanced-Calculator project.<br>I'm looking forward to collaborating on open-source project.
 
