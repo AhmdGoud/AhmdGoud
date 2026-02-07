@@ -1,7 +1,7 @@
  <h1>Hi!<br>I'm Ahmed Abdel-Rahman</h1>
 <h3>Front-end Developer</h3>
-About Me:<br>
-I'm currently learning React js.<br>currently working on Cars-Show project.<br>looking forward to collaborating on open-source project.
+
+I'm currently learning React js and working on 'Car-Show' project.<br>looking forward to collaborating on open-source project.
 
 
 ## 🌐 Socials:
