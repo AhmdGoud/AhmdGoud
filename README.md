@@ -9,7 +9,7 @@ I'm a Front-End Developer specializing in building responsive, high-performance 
 - 💻 Front-End Developer focused on React
 - 🌱 Currently improving my skills in Next.js and TypeScript
 - 🎯 Interested in building scalable and user-friendly web applications
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: ahmedabdelrahman1509@gmail.com
 - 🌐 Portfolio: https://ahmdgoud.github.io/AhmedAbdelRahman1509/
 
 ---
@@ -32,6 +32,7 @@ I'm a Front-End Developer specializing in building responsive, high-performance 
 - Git
 - GitHub
 - Vite
+- Postman
 - npm
 - VS Code
 
@@ -65,12 +66,12 @@ A modern car dealership interface with advanced search, filtering, detailed vehi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmdGoud&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdGoud&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=AhmdGoud&theme=tokyonight"/>
 </p>
 
 ---
@@ -78,6 +79,6 @@ A modern car dealership interface with advanced search, filtering, detailed vehi
 ## 🤝 Connect With Me
 
 - Portfolio: https://ahmdgoud.github.io/AhmedAbdelRahman1509/
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/ahmed-abdelrahman-7ab52b231/
+- Email: ahmedabdelrahman1509@gmail.com
 
