@@ -45,9 +45,9 @@ A responsive e-commerce web application featuring authentication, product search
 
 **Tech:** React, Redux Toolkit, React Router, Tailwind CSS
 
-🔗 Live Demo: https://your-demo-link.com
+🔗 Live Demo: [https://your-demo-link.com](https://ahmdgoud.github.io/EC-Store/)
 
-🔗 Repository: https://github.com/YOUR_USERNAME/ec-store
+🔗 Repository: [https://github.com/YOUR_USERNAME/ec-store](https://github.com/AhmdGoud/EC-Store)
 
 ---
 
@@ -57,9 +57,9 @@ A modern car dealership interface with advanced search, filtering, detailed vehi
 
 **Tech:** React, Tailwind CSS
 
-🔗 Live Demo: https://your-demo-link.com
+🔗 Live Demo: [https://your-demo-link.com](https://ahmdgoud.github.io/Cars-For-Sale/)
 
-🔗 Repository: https://github.com/YOUR_USERNAME/car-show
+🔗 Repository: [https://github.com/YOUR_USERNAME/car-show](https://github.com/AhmdGoud/Cars-For-Sale)
 
 ---
 
