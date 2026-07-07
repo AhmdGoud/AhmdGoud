@@ -55,7 +55,7 @@ A responsive e-commerce web application featuring authentication, product search
 
 A modern car dealership interface with advanced search, filtering, detailed vehicle pages, price comparison, and loan calculator.
 
-**Tech:** React, Tailwind CSS
+**Tech:** React, React Router
 
 🔗 Live Demo: https://ahmdgoud.github.io/Cars-For-Sale/
 
