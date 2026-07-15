@@ -20,6 +20,7 @@ I'm a Front-End Developer specializing in building responsive, high-performance 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- TypeScript
 
 ### Front-End
 - React
@@ -36,6 +37,11 @@ I'm a Front-End Developer specializing in building responsive, high-performance 
 - npm
 - VS Code
 
+### Concepts
+- DSA
+- OOP
+- REST APIs
+- Responsive Design
 ---
 
 ## 🚀 Featured Projects
@@ -43,7 +49,7 @@ I'm a Front-End Developer specializing in building responsive, high-performance 
 ### 🛒 EC Store
 A responsive e-commerce web application featuring authentication, product search, shopping cart, and Redux state management.
 
-**Tech:** React, Redux Toolkit, React Router, Tailwind CSS
+**Tech:** React, Redux Toolkit, React Router, JavaScript, HTML, CSS, Tailwind CSS, Responsive Design, Local Storage
 
 🔗 Live Demo: https://ahmdgoud.github.io/EC-Store/
 
@@ -55,7 +61,7 @@ A responsive e-commerce web application featuring authentication, product search
 
 A modern car dealership interface with advanced search, filtering, detailed vehicle pages, price comparison, and loan calculator.
 
-**Tech:** React, React Router
+**Tech:** React, React Router, JavaScript, HTML, CSS, Responsive Design
 
 🔗 Live Demo: https://ahmdgoud.github.io/Cars-For-Sale/
 
