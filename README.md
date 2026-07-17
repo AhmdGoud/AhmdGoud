@@ -4,6 +4,8 @@
 
 I'm a Front-End Developer specializing in building responsive, high-performance web applications using React and modern JavaScript. I enjoy creating clean user interfaces, solving real-world problems, and continuously learning new technologies.
 
+I'm looking for an opportunity, if you're interested in hiring/working with me you can reach me via the email below.
+
 ## 🚀 About Me
 
 - 💻 Front-End Developer focused on React
@@ -11,6 +13,7 @@ I'm a Front-End Developer specializing in building responsive, high-performance 
 - 🎯 Interested in building scalable and user-friendly web applications
 - 📫 Reach me: ahmedabdelrahman1509@gmail.com
 - 🌐 Portfolio: https://ahmdgoud.github.io/AhmedAbdelRahman1509/
+-  LinkedIn: https://www.linkedin.com/in/ahmed-abdelrahman-7ab52b231/
 
 ---
 
