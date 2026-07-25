@@ -31,6 +31,7 @@ I'm looking for a new opportunity, if you're interested in hiring/working with m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" hspace="5" alt="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" hspace="5" alt="Vite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" hspace="5" alt="VS Code"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" hspace="5" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" hspace="5" alt="npm"/>
 
 </p>
