@@ -17,7 +17,7 @@ I'm looking for a new opportunity, if you're interested in hiring/working with m
 
 <h3>🛠️ Tech Stack</h3>
 
-<div align="left" style="display:flex; gap:10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
