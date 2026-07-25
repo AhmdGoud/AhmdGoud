@@ -25,6 +25,7 @@ I'm looking for a new opportunity, if you're interested in hiring/working with m
 
 ### Front-End
 - React
+- Next.js
 - Redux Toolkit
 - React Router
 - Tailwind CSS
