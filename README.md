@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Abdel Rahman 👋
 
-### Front-End Developer | React Developer
+### Front-End Developer | React
 
 I'm a Front-End Developer specializing in building responsive, high-performance web applications using React and modern JavaScript. I enjoy creating clean user interfaces, solving real-world problems, and continuously learning new technologies.
 
