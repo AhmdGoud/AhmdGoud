@@ -64,7 +64,7 @@ A modern car dealership interface with advanced search, filtering, detailed vehi
 
 ## 🤝 Connect With Me
 
-- Portfolio: https://ahmdgoud.github.io/AhmedAbdelRahman1509/
+- Portfolio: [https://ahmdgoud.github.io/AhmedAbdelRahman1509/](https://ahmdgoud.github.io/AhmedAbdelRahman/)
 - LinkedIn: https://www.linkedin.com/in/ahmed-abdelrahman-7ab52b231/
 - Email: ahmedabdelrahman1509@gmail.com
 
