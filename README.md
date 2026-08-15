@@ -46,6 +46,7 @@ AI-powered mock interview app that generates technical interview questions based
 🔗 Live Demo: https://mock-interview-theta-ten.vercel.app
 
 🔗 Repository: https://github.com/AhmdGoud/Mock-Interview
+
 ---
 
 ### EC Store
