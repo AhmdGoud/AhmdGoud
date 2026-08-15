@@ -2,11 +2,11 @@
 
 ### Front-End Developer | React
 
-I'm a Front-End Developer specializing in building responsive, high-performance web applications using React and modern JavaScript. I enjoy creating clean user interfaces, solving real-world problems, and continuously learning new technologies.
+Front-End Developer specializing in building responsive, high-performance web applications using React and modern JavaScript. I enjoy creating clean user interfaces, solving real-world problems, and continuously learning new technologies.
 
 I'm looking for a new opportunity, if you're interested in hiring/working with me you can reach me via the email below.
 
-## 🚀 About Me
+## About Me
 
 - 💻 Front-End Developer focused on React
 - 🌱 Currently improving my skills in Next.js and TypeScript
@@ -38,7 +38,17 @@ I'm looking for a new opportunity, if you're interested in hiring/working with m
 
 ## 🚀 Featured Projects
 
-### 🛒 EC Store
+### Mock-Interview
+AI-powered mock interview app that generates technical interview questions based on your resume and target job description. It lets you answer questions and uses AI to evaluate your performance and provide feedback.
+
+**Tech:** Next.js, Redux Toolkit, TypeScript, Tailwind CSS, REST API, Gemini API, Responsive Design
+
+🔗 Live Demo: https://mock-interview-theta-ten.vercel.app
+
+🔗 Repository: https://github.com/AhmdGoud/Mock-Interview
+---
+
+### EC Store
 A responsive e-commerce web application featuring authentication, product search, shopping cart, and Redux state management.
 
 **Tech:** React, Redux Toolkit, React Router, JavaScript, HTML, CSS, Tailwind CSS, Responsive Design, Local Storage
@@ -49,7 +59,7 @@ A responsive e-commerce web application featuring authentication, product search
 
 ---
 
-### 🚗 Car Show
+### Car Show
 
 A modern car dealership interface with advanced search, filtering, detailed vehicle pages, price comparison, and loan calculator.
 
